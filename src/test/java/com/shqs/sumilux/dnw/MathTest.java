@@ -1,7 +1,9 @@
-package com.shqs.sumilux.DN_William;
+package com.shqs.sumilux.dnw;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import com.shqs.sumilux.dnw.Math;
 
 import junit.framework.Assert;
 
