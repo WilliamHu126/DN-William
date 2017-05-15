@@ -30,8 +30,8 @@ public class MathTest {
 		Assert.assertEquals(70, math.multiplied());
 	}
 
-//	@Test
-//	public void testDivided() {
-//		Assert.assertEquals(1, math.divided());
-//	}
+	@Test
+	public void testDivided() {
+		Assert.assertEquals(1, math.divided());
+	}
 }
